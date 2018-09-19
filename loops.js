@@ -22,7 +22,7 @@ function whileLoop(number) {
 
 function doWhileLoop(array) {
   do {
-    ;
+    array.
   } while (array.length > 0 && incrementVariable());
   return array;
 }
