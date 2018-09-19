@@ -12,22 +12,3 @@ function forLoop(array) {
 }
 
 
-function whileLoop(number) {
-  while (number > 0) {
-    console.log(--number);
-  }
-  return "done"
-}
-
-
-function incrementVariable() {
-  i = i + 1;
-}
-
-
-function doWhileLoop(array) {
-  do {
-   array - number
-  } while  array.length > 0 && incrementVariable();
-  return array
-}
